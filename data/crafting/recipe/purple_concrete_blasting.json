@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:purple_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:purple_concrete"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

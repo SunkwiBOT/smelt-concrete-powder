@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:pink_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:pink_concrete"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

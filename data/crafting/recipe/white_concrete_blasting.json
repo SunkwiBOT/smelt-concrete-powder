@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:white_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:white_concrete"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

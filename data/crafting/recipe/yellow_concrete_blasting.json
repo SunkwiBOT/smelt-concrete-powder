@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:yellow_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:yellow_concrete"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

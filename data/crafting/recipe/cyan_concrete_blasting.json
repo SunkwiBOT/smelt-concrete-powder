@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:cyan_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:cyan_concrete"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}
